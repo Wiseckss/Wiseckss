@@ -24,7 +24,8 @@ https://simpleicons.org/
 
 🤓 **Interested:** <br>
 
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 
 <div>
   <a href="https://github.com/Wiseckss">
